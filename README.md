@@ -7,9 +7,8 @@
   / /_/ / /_/ (__  ) /_/ /    
  /_____/\__,_/____/\__/_/     Version 1.0.0
  ```
- 
-Bustr is a framework built to detect if any new USB/STORAGE/BLUETOOTH
-device has been attached/paired with system.
+
+Bustr is a framework built to detect if any new USB/STORAGE/PHONE/BLUETOOTH device has been attached/paired with system.
 
 #### Ability to monitor activity of:
    * USB (USB device stack)
