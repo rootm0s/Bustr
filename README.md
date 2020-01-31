@@ -12,6 +12,12 @@ Bustr is a framework built to detect if any new Usb, Storage, Phone or Bluetooth
 
 All the activity detected by Bustr is logged.
 
+#### Features:
+   * Live monitoring of registry artifacts, logging the results to disk
+   * Ability to run hidden, the console window hides but the application still running
+   * Generate a HTML report using logs and exported registry data
+   * Ability to debug all Bustr functions
+   
 #### Ability to monitor activity of:
    * USB (USB device stack)
    * Storage (Disks)
