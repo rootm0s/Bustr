@@ -8,7 +8,9 @@
  /_____/\__,_/____/\__/_/     Version 1.0.0
  ```
 
-Bustr is a framework built to detect if any new USB/STORAGE/PHONE/BLUETOOTH device has been attached/paired with system.
+Bustr is a framework built to detect if any new Usb, Storage, Phone or Bluetooth device has been attached/paired with system. Designed to run under a non-administrator account but also works while running with higher privileges.
+
+All the activity detected by Bustr is logged.
 
 #### Ability to monitor activity of:
    * USB (USB device stack)
