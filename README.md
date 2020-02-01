@@ -17,7 +17,7 @@ Bustr is a framework built to discover if any new Usb, Storage, Phone or Bluetoo
    * Generate a HTML report using logs and exported registry data
    * Ability to debug all Bustr functions
    * Play system beep sound if a new discovery happened
-   * Lock the machine by mimicking "CTRL+ALT+DEL > Lock"
+   * Lock the machine by mimicking "CTRL+ALT+DEL > Lock" if a new discovery happened
    
 #### Ability to monitor activity of these registry artifacts simultaneously:
    * SYSTEM\MountedDevices
