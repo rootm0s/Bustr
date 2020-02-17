@@ -10,6 +10,11 @@
 
 Bustr is a framework built to discover if any new Usb, Storage, Phone or Bluetooth device has been attached/paired with system. Designed to run with either administrator account or as normal user.
 
+In later versions, Bustr can lock the machine or send annoying beep sounds to indicate the discoveries. Not yet implemented!
+
+#### Usecase:
+The idea is to run Bustr on a fresh installed computer, if it discover a new usb, storage, phone or bluetooth device has been attached/paired with system, log the results and generate a HTML report with the registry data and log results. Tested this with 4 different USB manufacturers and Android and iPhone.
+
 #### Features:
    * Works on all Windows versions
    * Live monitoring of registry artifacts, logging the results to disk
