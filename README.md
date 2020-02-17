@@ -31,3 +31,6 @@ Bustr is a framework built to discover if any new Usb, Storage, Phone or Bluetoo
    * SYSTEM\CurrentControlSet\Services\BTHPORT\Parameters\Devices
    * Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume
    * Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
+
+#### Preview of the utility running with monitoring debugging active
+![bustr](https://i.imgur.com/DJUg7Oj.jpg)
