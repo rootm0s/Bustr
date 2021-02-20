@@ -8,10 +8,10 @@
  /_____/\__,_/____/\__/_/     Version 1.0.0
  ```
 
-Bustr is a utility built to discover if any new USB, Storage, Phone or Bluetooth device has been attached/paired with the operating system, by monitoring registry artifacts.
+Bustr is a utility built to discover if any new USB, Storage, Phone or Bluetooth device has been attached/paired with the operating system, by monitoring registry artifacts. If a discovery is made, generate HTML page containing log results and registry data. Tested this with 4 different USB manufacturers and Android and iPhone.
 
-#### Usecase:
-The idea is to run Bustr on a fresh installed computer. If it discover a new usb, storage, phone or bluetooth device has been attached/paired with system, log the results and generate a HTML report with the registry data and log results. Tested this with 4 different USB manufacturers and Android and iPhone.
+#### Preview
+![bustr](https://i.imgur.com/DJUg7Oj.jpg)
 
 #### Ability to monitor activity of these registry artifacts simultaneously:
    * SYSTEM\MountedDevices
@@ -25,6 +25,3 @@ The idea is to run Bustr on a fresh installed computer. If it discover a new usb
    * SYSTEM\CurrentControlSet\Services\BTHPORT\Parameters\Devices
    * Software\Microsoft\Windows\CurrentVersion\Explorer\MountPoints2\CPC\Volume
    * Software\Microsoft\Windows\CurrentVersion\Explorer\AutoplayHandlers\KnownDevices
-
-#### Preview of the utility running with monitoring debugging active
-![bustr](https://i.imgur.com/DJUg7Oj.jpg)
